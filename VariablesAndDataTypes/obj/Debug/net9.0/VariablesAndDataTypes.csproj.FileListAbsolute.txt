@@ -1,0 +1,15 @@
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\VariablesAndDataTypes\bin\Debug\net9.0\VariablesAndDataTypes.exe
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\VariablesAndDataTypes\bin\Debug\net9.0\VariablesAndDataTypes.deps.json
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\VariablesAndDataTypes\bin\Debug\net9.0\VariablesAndDataTypes.runtimeconfig.json
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\VariablesAndDataTypes\bin\Debug\net9.0\VariablesAndDataTypes.dll
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\VariablesAndDataTypes\bin\Debug\net9.0\VariablesAndDataTypes.pdb
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\VariablesAndDataTypes\obj\Debug\net9.0\VariablesAndDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\VariablesAndDataTypes\obj\Debug\net9.0\VariablesAndDataTypes.AssemblyInfoInputs.cache
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\VariablesAndDataTypes\obj\Debug\net9.0\VariablesAndDataTypes.AssemblyInfo.cs
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\VariablesAndDataTypes\obj\Debug\net9.0\VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\VariablesAndDataTypes\obj\Debug\net9.0\VariablesAndDataTypes.dll
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\VariablesAndDataTypes\obj\Debug\net9.0\refint\VariablesAndDataTypes.dll
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\VariablesAndDataTypes\obj\Debug\net9.0\VariablesAndDataTypes.pdb
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\VariablesAndDataTypes\obj\Debug\net9.0\VariablesAndDataTypes.genruntimeconfig.cache
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\VariablesAndDataTypes\obj\Debug\net9.0\ref\VariablesAndDataTypes.dll
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\VariablesAndDataTypes\obj\Debug\net9.0\VariablesAndDataTypes.sourcelink.json
