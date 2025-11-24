@@ -1,0 +1,15 @@
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Arrays\bin\Debug\net9.0\Arrays.exe
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Arrays\bin\Debug\net9.0\Arrays.deps.json
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Arrays\bin\Debug\net9.0\Arrays.runtimeconfig.json
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Arrays\bin\Debug\net9.0\Arrays.dll
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Arrays\bin\Debug\net9.0\Arrays.pdb
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Arrays\obj\Debug\net9.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Arrays\obj\Debug\net9.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Arrays\obj\Debug\net9.0\Arrays.AssemblyInfo.cs
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Arrays\obj\Debug\net9.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Arrays\obj\Debug\net9.0\Arrays.sourcelink.json
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Arrays\obj\Debug\net9.0\Arrays.dll
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Arrays\obj\Debug\net9.0\refint\Arrays.dll
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Arrays\obj\Debug\net9.0\Arrays.pdb
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Arrays\obj\Debug\net9.0\Arrays.genruntimeconfig.cache
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Arrays\obj\Debug\net9.0\ref\Arrays.dll

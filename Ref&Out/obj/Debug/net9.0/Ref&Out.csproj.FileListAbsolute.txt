@@ -1,0 +1,15 @@
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Ref&Out\bin\Debug\net9.0\Ref&Out.exe
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Ref&Out\bin\Debug\net9.0\Ref&Out.deps.json
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Ref&Out\bin\Debug\net9.0\Ref&Out.runtimeconfig.json
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Ref&Out\bin\Debug\net9.0\Ref&Out.dll
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Ref&Out\bin\Debug\net9.0\Ref&Out.pdb
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Ref&Out\obj\Debug\net9.0\Ref&Out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Ref&Out\obj\Debug\net9.0\Ref&Out.AssemblyInfoInputs.cache
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Ref&Out\obj\Debug\net9.0\Ref&Out.AssemblyInfo.cs
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Ref&Out\obj\Debug\net9.0\Ref&Out.csproj.CoreCompileInputs.cache
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Ref&Out\obj\Debug\net9.0\Ref&Out.sourcelink.json
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Ref&Out\obj\Debug\net9.0\Ref&Out.dll
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Ref&Out\obj\Debug\net9.0\refint\Ref&Out.dll
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Ref&Out\obj\Debug\net9.0\Ref&Out.pdb
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Ref&Out\obj\Debug\net9.0\Ref&Out.genruntimeconfig.cache
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\Ref&Out\obj\Debug\net9.0\ref\Ref&Out.dll
