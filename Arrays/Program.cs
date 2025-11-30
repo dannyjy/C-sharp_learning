@@ -23,6 +23,8 @@ namespace Arrays
             // Level3.SwapLastAndFirst(coordinates).ForEach((ele) => Console.WriteLine(ele));
             
             // M2List.M2Top10();
+            List<int> nums = new List<int> {1,2,3,6};
+            Console.WriteLine(M2List.SumIntegres(nums.ToArray()));
         }
     }
 }
