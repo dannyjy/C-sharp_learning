@@ -5,9 +5,9 @@ namespace OOP
 {
     class Person
     {
-        string? name;
-        int age;
-        string? gender;
+        public string? name;
+        public int age;
+        public string? gender;
         
         public Person(string? Name,int Age,string? Gender)
         {
