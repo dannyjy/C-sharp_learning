@@ -11,9 +11,18 @@ namespace OOP
         
         public Person(string? Name,int Age,string? Gender)
         {
-            Name = name;
-            Age = age;
-            Gender = gender;
+            name = Name;
+            age = Age;
+            gender = Gender;
+        }
+
+        public string GetInfo()
+        {
+            return @$"
+            Name: {name}
+            Age: {age}
+            Gender: {gender}
+            ";
         }
     }
 }
