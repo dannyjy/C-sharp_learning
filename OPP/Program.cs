@@ -21,6 +21,10 @@
             Doctor neurologist = new Doctor("John Doe",34,"Male","03324","Brain Surgen");
             string detail = neurologist.GetDetails();
             Console.WriteLine(detail);
+
+            Movie sherk = new Movie("Sherk","Chirs Jones","Dog");
+
+            Console.WriteLine(sherk.Rating);
         }
     }
 }
