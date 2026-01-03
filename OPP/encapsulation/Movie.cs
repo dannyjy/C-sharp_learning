@@ -2,9 +2,9 @@ namespace OOP;
 
 class Movie
 {
-    public string name;
-    public string director;
-    private string rating;
+    public string? name;
+    public string? director;
+    private string? rating;
 
     public Movie(string movieName,string directorName, string aRating){
         name = movieName;

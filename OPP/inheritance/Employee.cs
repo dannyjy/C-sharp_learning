@@ -8,7 +8,7 @@ namespace OPP.Inheritance
     public class Employee
     {
         public int ID { get; set; }
-        public string Name { get; set; }
+        public string? Name { get; set; }
         public void ClockIn() => Console.WriteLine($"{Name} clocked in.");
     }
 
@@ -19,6 +19,6 @@ namespace OPP.Inheritance
 
     public class Developer : Employee
     {
-        public string ProgrammingLanguage { get; set; } // Specific to Developers
+        public string? ProgrammingLanguage { get; set; } // Specific to Developers
     }
 }
