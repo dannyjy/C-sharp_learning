@@ -1,4 +1,6 @@
-﻿namespace OOP
+﻿using OPP.Encapsulation;
+
+namespace OOP
 {
     class Program
     {
@@ -20,11 +22,20 @@
 
             Doctor neurologist = new Doctor("John Doe",34,"Male","03324","Brain Surgen");
             string detail = neurologist.GetDetails();
-            Console.WriteLine(detail);
+            // Console.WriteLine(detail);
 
             Movie sherk = new Movie("Sherk","Chirs Jones","Dog");
+            // Console.WriteLine(sherk.Rating);
 
-            Console.WriteLine(sherk.Rating);
+            // Encapsulation examples
+            Thermostat thermostat = new Thermostat();
+            thermostat.Temperature = -44;
+            Console.WriteLine(thermostat.Temperature);
+
+            Player alpha7777 = new Player();
+            alpha7777.Health = 0;
+            System.Console.WriteLine(alpha7777.Health);
+            System.Console.WriteLine(alpha7777.IsDead);
         }
     }
 }
