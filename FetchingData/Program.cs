@@ -7,8 +7,8 @@ namespace FetchingData
     {
         public static async Task Main(string[] args)
         {
-            // await Todos.GetTodosAsync();
-            // await Users.GetUsersAsync();
+            await Todos.GetTodosAsync();
+            await Users.GetUsersAsync();
             GetSystemDetail();
         }
 
