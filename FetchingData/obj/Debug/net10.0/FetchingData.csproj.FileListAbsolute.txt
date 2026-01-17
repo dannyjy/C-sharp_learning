@@ -1,0 +1,15 @@
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\FetchingData\obj\Debug\net10.0\FetchingData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\FetchingData\obj\Debug\net10.0\FetchingData.AssemblyInfoInputs.cache
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\FetchingData\obj\Debug\net10.0\FetchingData.AssemblyInfo.cs
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\FetchingData\obj\Debug\net10.0\FetchingData.csproj.CoreCompileInputs.cache
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\FetchingData\obj\Debug\net10.0\FetchingData.sourcelink.json
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\FetchingData\bin\Debug\net10.0\FetchingData.exe
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\FetchingData\bin\Debug\net10.0\FetchingData.deps.json
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\FetchingData\bin\Debug\net10.0\FetchingData.runtimeconfig.json
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\FetchingData\bin\Debug\net10.0\FetchingData.dll
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\FetchingData\bin\Debug\net10.0\FetchingData.pdb
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\FetchingData\obj\Debug\net10.0\FetchingData.dll
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\FetchingData\obj\Debug\net10.0\refint\FetchingData.dll
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\FetchingData\obj\Debug\net10.0\FetchingData.pdb
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\FetchingData\obj\Debug\net10.0\FetchingData.genruntimeconfig.cache
+C:\Users\djuzu\Desktop\ALPHA\C#.BACKEND\C#.BASICS\FetchingData\obj\Debug\net10.0\ref\FetchingData.dll
