@@ -1,5 +1,4 @@
-﻿// using FetchingData.FetchTasks;
-// https://jsonplaceholder.typicode.com/todos/1
+﻿// https://jsonplaceholder.typicode.com/todos/1
 
 namespace FetchingData
 {
@@ -7,7 +6,11 @@ namespace FetchingData
     {
         public static async Task Main(string[] args)
         {
-            await Todos.GetTodosAsync();
+            var todosList = await Todos.GetTodosAsync();
+            foreach (var todo in todosList)
+            {
+                Console.WriteLine($"Todo ID: {todo.UserId}, Title: {todo.title}, Completed: {todo.completed}");
+            }
             await Users.GetUsersAsync();
             GetSystemDetail();
         }
@@ -16,7 +19,7 @@ namespace FetchingData
         public static void GetSystemDetail()
         {
             Console.WriteLine($"Machine Name: {Environment.MachineName}");
-            Console.WriteLine($"Machine Name: {Environment.CommandLine}");
+            Console.WriteLine($"Command Line: {Environment.CommandLine}");
             Console.WriteLine($"OS Version: {Environment.OSVersion}");
             Console.WriteLine($"OS Description: {System.Runtime.InteropServices.RuntimeInformation.OSDescription}");
             Console.WriteLine($"Processor Count: {Environment.ProcessorCount}");
