@@ -1,32 +1,47 @@
-﻿// https://jsonplaceholder.typicode.com/todos/1
+﻿using FetchingData.multithreading;
+// https://jsonplaceholder.typicode.com/todos/1
 
 namespace FetchingData
 {
     class Program
     {
-        public static async Task Main(string[] args)
+        public static void Main(string[] args)
         {
-            var todosList = await Todos.GetTodosAsync();
-            foreach (var todo in todosList)
+            var t1 = Task.Run( async () => {
+                try
+                {
+                    var todosList = await Todos.GetTodosAsync();
+                    foreach (var todo in todosList)
+                    {
+                        Console.WriteLine($"Todo ID: {todo.UserId}, Title: {todo.title}, Completed: {todo.completed}");
+                    }
+                    // await Users.GetUsersAsync();
+                }
+                catch (Exception e)
+                {
+                    System.Console.WriteLine(e.Message);
+                }
+            });
+
+            // Thread Class
+            Thread thread = new Thread(Multi.GetValues);
+            // thread.Start();
+
+            Counter counter = new Counter();
+
+            Thread t2 = new Thread(counter.Increment);
+            Thread t3 = new Thread(counter.Increment);
+
+            t2.Start();
+            t3.Start();
+
+            // Thread Pooling
+            ThreadPool.QueueUserWorkItem((st) =>
             {
-                Console.WriteLine($"Todo ID: {todo.UserId}, Title: {todo.title}, Completed: {todo.completed}");
-            }
-            await Users.GetUsersAsync();
-            GetSystemDetail();
-        }
-
-
-        public static void GetSystemDetail()
-        {
-            Console.WriteLine($"Machine Name: {Environment.MachineName}");
-            Console.WriteLine($"Command Line: {Environment.CommandLine}");
-            Console.WriteLine($"OS Version: {Environment.OSVersion}");
-            Console.WriteLine($"OS Description: {System.Runtime.InteropServices.RuntimeInformation.OSDescription}");
-            Console.WriteLine($"Processor Count: {Environment.ProcessorCount}");
-            Console.WriteLine($"64-bit OS: {Environment.Is64BitOperatingSystem}");
-            Console.WriteLine($"User Name: {Environment.UserName}");
-            Console.WriteLine($"System Directory: {Environment.SystemDirectory}");
-            Console.WriteLine($"Working Set (Memory): {Environment.WorkingSet} bytes");
+                counter.Increment();
+            });
+            Task.WaitAll(t1);
+            // SystemInfo.GetSystemDetail();
         }
     }
 }
